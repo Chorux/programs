@@ -25,8 +25,7 @@ Estou usando este espaço como um diário público do meu aprendizado. Cada repo
 Acredito que a colaboração e a troca de conhecimento são essenciais para o desenvolvimento. Se você é um(a) iniciante como eu ou um(a) profissional experiente, sinta-se à vontade para me seguir, dar um 'star' em algum projeto ou entrar em contato!
 
 * **LinkedIn:** *[Vinicius Pordeus](https://www.linkedin.com/in/vin%C3%ADcius-wesley-031106341/)*
-* **Email:** *Viniciuswesleyp@gmail.com*
-* **Primeiro Projeto:** *https://chorux.github.io/programmation_study/*
+
 
 Obrigado por visitar meu perfil! Vamos codar! 🚀
 
